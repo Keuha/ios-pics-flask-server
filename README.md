@@ -1,4 +1,6 @@
-#ios-pics-flask-server
+# THIS IS ABSOLUTELY OUTDATED
+
+# ios-pics-flask-server
 a simple exemple for sending and receiving pics from iOS with Flask
 
 It took me a while to figure out how to send a pics to a flask server from a Swift iOS app. I don't have any personnal website so i decide to put it on gitHub.
